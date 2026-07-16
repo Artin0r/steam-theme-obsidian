@@ -9,7 +9,7 @@ A flat, zero-radius dark theme for Obsidian mimicking the retro, olive-green Ste
 ## Features
 - **Retro Palette:** Built using authentic classic interface values featuring deep backgrounds, wire greens, and sharp yellow highlights.
 - **Strictly Flat Design:** Absolute zero-radius corners across all UI components, buttons, checkboxes, tags, canvas nodes, and modal windows.
-- **Retro CRT Screen Engine:** Immersive, built-in vintage display elements including active text glow, horizontal scanlines, and a screen-vignette. ***(Can be turned off using the [Style Settings Plugin])***
+- **Retro CRT Screen Engine:** Immersive, built-in vintage display elements including active text glow, horizontal scanlines, and a screen-vignette. ***(Can be turned off using the [Style Settings Plugin](https://community.obsidian.md/plugins/obsidian-style-settings)***
 - **Artin0r's Advanced Kanban Compatibility:** Comes with a pre-configured design patch built specifically to seamlessly style advanced kanban columns, tags, and board cards in the retro look.
 
 ## Installation
