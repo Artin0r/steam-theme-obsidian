@@ -2,7 +2,7 @@
 
 A flat, zero-radius dark theme for Obsidian mimicking the retro, olive-green Steam interface from the early 2000s.
 
-<img src="https://github.com/user-attachments/assets/3b631819-f9c9-45b8-acf9-15c5e8a8a705" style="max-width: 100%; height: auto;" alt="Showcase" />
+<img src="https://github.com/user-attachments/assets/57f976bf-a5e1-4db3-8c8e-9eebf994f265" style="max-width: 100%; height: auto;" alt="Showcase" />
 
 
 
