@@ -4,8 +4,7 @@ A flat, zero-radius dark theme for Obsidian mimicking the retro, olive-green Ste
 
 <img src="https://github.com/user-attachments/assets/57f976bf-a5e1-4db3-8c8e-9eebf994f265" style="max-width: 100%; height: auto;" alt="Showcase" />
 
-
-
+---
 ## Features
 - **Retro Palette:** Built using authentic classic interface values featuring deep backgrounds, wire greens, and sharp yellow highlights.
 - **Strictly Flat Design:** Absolute zero-radius corners across all UI components, buttons, checkboxes, tags, canvas nodes, and modal windows.
