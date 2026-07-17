@@ -11,6 +11,12 @@ A flat, zero-radius dark theme for Obsidian mimicking the retro, olive-green Ste
 - **Retro CRT Screen Engine:** Immersive, built-in vintage display elements including active text glow, horizontal scanlines, and a screen-vignette. ***(Can be turned off using the [Style Settings Plugin](https://community.obsidian.md/plugins/obsidian-style-settings)***
 - **Artin0r's Advanced Kanban Compatibility:** Comes with a pre-configured design patch built specifically to seamlessly style advanced kanban columns, tags, and board cards in the retro look.
 
+### Note 
+ To get the exact same look in the screenshot you need to download these fonts :
+1. [Liberation Mono](https://www.1001fonts.com/liberation-mono-font.html) (General Text)
+2. [Hack](https://sourcefoundry.org/hack/) (For codeblocks)
+
+
 ## Installation
 ### Community Theme Store (Recommended)
 1. Open **Settings** -> **Appearance** in Obsidian.
