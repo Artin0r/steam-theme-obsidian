@@ -13,8 +13,8 @@ A flat, zero-radius dark theme for Obsidian mimicking the retro, olive-green Ste
 
 ### Note 
  To get the exact same look in the screenshot you need to download these fonts :
-1. [Liberation Mono](https://www.1001fonts.com/liberation-mono-font.html) (General Text)
-2. [Hack](https://sourcefoundry.org/hack/) (For codeblocks)
+1. [LiberationMono-Bold.ttf](https://github.com/liberationfonts/liberation-fonts/releases/tag/2.1.5) (General Text)
+2. [Hack.ttf](https://sourcefoundry.org/hack/) (For codeblocks)
 
 
 ## Installation
